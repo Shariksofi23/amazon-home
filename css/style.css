@@ -1,0 +1,35 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    
+    color : whitesmoke;
+    background-color: black;
+}
+#hey{
+    text-align: center;
+    text-transform: capitalize;
+}
+#outer{
+    background-color: orange;
+    color : whitesmoke;
+    font-size: 25px;
+}
+#inner{
+    background-color: greenyellow;
+    color: black;
+font-size: 15px;
+}
+#px{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+    text-align: center;
+}
+.two{
+    color:red;
+}
+p{
+    text-align: center;
+}
